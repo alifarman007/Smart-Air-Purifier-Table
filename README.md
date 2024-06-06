@@ -42,5 +42,9 @@ You can sleep with the air purifier on since it is very quiet at the lower fan s
 - <b>Red Light: </b>Indicates harmful air.
 - <b>Blue Light: </b>Indicates clean air.
 
-
+<h2>Dimension & Elevation</h2>
+<p align="center">
+<img src="https://i.imgur.com/4OdlKXr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
