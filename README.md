@@ -48,3 +48,9 @@ You can sleep with the air purifier on since it is very quiet at the lower fan s
 <br />
 <br />
 
+<h2>Sleek and Practical Design</h2>
+<p align="center">
+<img src="https://i.imgur.com/ZppKmjo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Elevate your home with our groundbreaking air purifier side table. This dual-purpose marvel not only complements your décor but also ensures you breathe clean, healthy air. Concealed Cable Management means The power cable is neatly hidden within inside, maintaining a clean and tidy appearance.
