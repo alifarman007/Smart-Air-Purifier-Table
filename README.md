@@ -31,9 +31,16 @@ This product is both a side table and an air purifier that improves indoor air q
 You can sleep with the air purifier on since it is very quiet at the lower fan speeds. The cable is inside the leg so it looks good and avoid cable clutter. 
 <br />
 
+ <p align="center">
+<img src="https://i.imgur.com/T7olScU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2>Real-Time Air Quality Monitoring</h2>
 
-- <b>Air Quality Indicators:</b>Instantly know the air quality with a glance.
-- <b>Red Light:</b>Indicates harmful air.
-- <b>Blue Light:</b>Indicates clean air.
+- <b>Air Quality Indicators: </b>Instantly know the air quality with a glance.
+- <b>Red Light: </b>Indicates harmful air.
+- <b>Blue Light: </b>Indicates clean air.
+
+
 
