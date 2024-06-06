@@ -26,3 +26,14 @@ This product is both a side table and an air purifier that improves indoor air q
 - <b>Low Speed: One LED light.</b>
 - <b>Medium Speed: Two LED lights.</b>
 - <b>High Speed: Three LED lights.</b>
+
+<h2>Quiet or Low Sound and Good Cable Management </h2>
+You can sleep with the air purifier on since it is very quiet at the lower fan speeds. The cable is inside the leg so it looks good and avoid cable clutter. 
+<br />
+
+<h2>Real-Time Air Quality Monitoring</h2>
+
+- <b>Air Quality Indicators:</b>Instantly know the air quality with a glance.
+- <b>Red Light:</b>Indicates harmful air.
+- <b>Blue Light:</b>Indicates clean air.
+
