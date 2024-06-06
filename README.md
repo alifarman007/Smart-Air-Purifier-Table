@@ -12,10 +12,10 @@ This product is both a side table and an air purifier that improves indoor air q
 
 <h2>Key Feature</h2>
 <h4>Dual-Functionality:</h4>
--Side Table & Air Purifier: A perfect blend of style and utility.
+ - Side Table & Air Purifier: A perfect blend of style and utility.
 <br />
 
 <h4>Advanced Air Purification:</h4>
--PM2.5 Detection: The built-in sensor detects harmful particles in the air, ensuring you always breathe clean air.
--Efficient Allergen Disposal: Effectively removes tobacco smoke, dust, pollen, and other harmful allergens.
+ - PM2.5 Detection: The built-in sensor detects harmful particles in the air, ensuring you always breathe clean air.
+ - Efficient Allergen Disposal: Effectively removes tobacco smoke, dust, pollen, and other harmful allergens.
 <br />
