@@ -16,6 +16,6 @@ This product is both a side table and an air purifier that improves indoor air q
 <br />
 
 <h4>Advanced Air Purification:</h4>
-- <b>PM2.5 Detection: The built-in sensor detects harmful particles in the air, ensuring you always breathe clean air.</b>
-- <b>Efficient Allergen Disposal: Effectively removes tobacco smoke, dust, pollen, and other harmful allergens.</b>
+- <b>The built-in sensor detects harmful particles in the air like PM2.5 Detection, ensuring you always breathe clean air.</b>
+- <b>Efficient Allergen Disposal and Effectively removes tobacco smoke, dust, pollen, and other harmful allergens.</b>
 
