@@ -18,4 +18,14 @@ This product is both a side table and an air purifier that improves indoor air q
 <h4>Advanced Air Purification:</h4>
 - <b>The built-in sensor detects harmful particles in the air like PM2.5 Detection, ensuring you always breathe clean air.</b>
 - <b>Efficient Allergen Disposal and Effectively removes tobacco smoke, dust, pollen, and other harmful allergens.</b>
+<br />
 
+<h2>Customizable Airflow </h2>
+
+- <b>Warm Light</b> (3000k)
+- <b>Long Battery</b> (2000mAh)
+- <b>Highly Sensitive Solar Panel</b> 162*144mm
+- <b>Precise Solar Charger Circuit</b>
+- <b>270 Degree Rotation</b>
+- <b>8 hours in Sunlight for Full Charge</b>
+- <b>5 hours Nonstop Light</b>
