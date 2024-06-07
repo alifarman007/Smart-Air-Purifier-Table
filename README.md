@@ -7,7 +7,7 @@
 <br />
 
 <h2>Description</h2>
-This product is both a side table and an air purifier that improves indoor air quality. The air purifier detects particles (PM2.5) in the air, allowing you to adjust the fan speed, so you can focus on other things. It ensures the efficient removal of harmful allergens like tobacco smoke, dust, and pollen. You can adjust the fan speed and check the current air quality status easily. You can also sleep with the air purifier on since it is very quiet at lower fan speeds. The cable is hidden inside the leg, giving it a clean look and avoiding cable clutter. This product has three speed settings: pressing the button once turns on one LED light for low speed, pressing it twice turns on two LED lights for medium speed, and pressing it three times turns on three LED lights for high speed. Additionally, there are two other indicator lights above the speed lights. A red light indicates harmful air when the sensor detects poor air quality, and a blue light indicates clean air when the sensor reads good air quality.
+This product is both a side table and an air purifier that improves indoor air quality. The air purifier detects particles (PM2.5) in the air, allowing you to adjust the fan speed so that you can focus on other things. It ensures the efficient removal of harmful allergens like tobacco smoke, dust, and pollen. You can adjust the fan speed and check the current air quality status easily. You can also sleep with the air purifier on since it is very quiet at lower fan speeds. The cable is hidden inside the leg, giving it a clean look and avoiding cable clutter. This product has three-speed settings: pressing the button once turns on one LED light for low speed, pressing it twice turns on two LED lights for medium speed, and pressing it three times turns on three LED lights for high speed. Additionally, there are two other indicator lights above the speed lights. A red light indicates harmful air when the sensor detects poor air quality, and a blue light indicates clean air when the sensor reads good air quality.
 <br />
 
 <h2>Key Feature</h2>
@@ -54,3 +54,12 @@ You can sleep with the air purifier on since it is very quiet at the lower fan s
 <br />
 <br />
 Elevate your home with our groundbreaking air purifier side table. This dual-purpose marvel not only complements your décor but also ensures you breathe clean, healthy air. Concealed Cable Management means The power cable is neatly hidden within inside, maintaining a clean and tidy appearance. It blends seamlessly into your living space, providing both style and function.
+<br />
+
+<h2>Air Clean time</h2>
+Within two hours it will clean the major pollute or particle. After 5-6 hours it will make a super breath air.
+<br />
+<p align="center">
+<img src="https://i.imgur.com/O8BiFcj.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
